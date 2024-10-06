@@ -11,8 +11,10 @@
 La escuela de música “E-Sueño” necesita desarrolladores freelance para la creación de una aplicación tipo CRUD. En este desafío desarrollamos un servidor con Express que utilice el módulo File
 System para agregar, modificar y eliminar canciones almacenadas en un JSON local llamado repertorio.json.
 
-Para ejecutar el PY: 1. Subir el servidor con nodemon server.js
-2.Abrir en el navegador la url: http://localhost:3000/
+Para ejecutar el PY:
+
+1. Subir el servidor, ejecutando en el bash: nodemon server.js
+2. Abrir en el navegador la url: http://localhost:3000/
 
 ## Requerimientos entregados:
 
