@@ -1,16 +1,18 @@
 # Módulo 6 Introducción Express JS - Desafío 2 - Mi Repertorio
 
-## Presentación del Desafío 
+## Presentación del Desafío
 
 ![Pantalla VSCode](./images/presentacionDesafio.png)
 
 ## <br/>
 
 ## Descripción del PY ⌨️
+
 La escuela de música “E-Sueño” necesita desarrolladores freelance para la creación de una aplicación tipo CRUD. En este desafío desarrollamos un servidor con Express que utilice el módulo File
 System para agregar, modificar y eliminar canciones almacenadas en un JSON local llamado repertorio.json.
 
-## Requerimientos entregados: 
+## Requerimientos entregados:
+
 1. Se levantó un servidor local usando Express Js.
 2. Se devuelve una página web como respuesta a una consulta GET.
 3. Ofrecemos diferentes rutas con diferentes métodos HTTP que permitan las operaciones CRUD de datos alojados en un archivo JSON local.
@@ -21,9 +23,9 @@ System para agregar, modificar y eliminar canciones almacenadas en un JSON local
 
 ## Tecnologías Usadas 🛠️
 
-- **Backend: Node.js, Express.js, File System.** 🧑‍💻
-- **Frontend: HTML, CSS, Bootstrap, Axios.** 📚
-- **Almacenamiento: Archivo JSON (repertorio.json).** 🫙
+- **Backend:** Node.js, Express.js, File System. 🧑‍💻
+- **Frontend:** HTML, CSS, Bootstrap, Axios. 📚
+- **Almacenamiento:** Archivo JSON (repertorio.json). 🫙
 
 <br/>
 
