@@ -1,28 +1,21 @@
-# Módulo 6 Introducción Express JS - Desafío 2 - Mi Repertorio
+# Proyecto Isla de Pascua (Chile)
 
-## Presentación del Desafío
+## Presentación del PY
 
-![Pantalla VSCode](./images/presentacionDesafio.png)
+![Pantalla VSCode](./)
 
 ## <br/>
 
 ## Descripción del PY ⌨️
 
-La escuela de música “E-Sueño” necesita desarrolladores freelance para la creación de una aplicación tipo CRUD. En este desafío desarrollamos un servidor con Express que utilice el módulo File
-System para agregar, modificar y eliminar canciones almacenadas en un JSON local llamado repertorio.json.
-
-Para ejecutar el PY:
-
-1. Subir el servidor, ejecutando en el bash: nodemon server.js
-2. Abrir en el navegador la url: http://localhost:3000/
+El proyecto del desarrollo de la Página Web de la Isla de Pascua (Chile), tiene como objetivo promover e impulsar a los microempresarios en la Isla en todos sus emprenmdimientos
+para el mejoramiento contínuo, crecimiento económico y sostenibilidad en la Isla.
 
 ## Requerimientos entregados:
 
-1. Se levantó un servidor local usando Express Js.
-2. Se devuelve una página web como respuesta a una consulta GET.
-3. Ofrecemos diferentes rutas con diferentes métodos HTTP que permitan las operaciones CRUD de datos alojados en un archivo JSON local.
-4. Se manipularon los parámetros obtenidos en la URL.
-5. Se manipuló el payload de una consulta HTTP al servidor.
+1. Diseño de página web.
+2. Operatividad y funcionalidad de los servicios prestados en la Isla a través de la página web.
+3. Promoción de los microempresarios de la Isla.
 
 ## <br/>
 
@@ -40,7 +33,7 @@ Para ejecutar el PY:
 
 ## Autores 👨‍💻
 
-**Luis Fernando Sanchez F. - Daniel Hernández - Desarrolladores Fullstack G60⚡**
+** Fundadores, Co-fundadores, Equipo de Diseño y Equipo de Desarrollodaores de Codelium⚡**
 
 Sígueme en mis redes sociales: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfernandosanchezflorez)[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/luisfersan)
 <br>
